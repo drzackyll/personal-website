@@ -1,11 +1,9 @@
 import React from 'react'
 
-// onKeyDown
 
 const Resume = () => {
   return (
     <div className="container-fluid">
-      <h1 className="text-center">Zack Adams</h1>
       <div className="row">
         <div className="col-xs-3 text-center">651.206.2992</div>
         <div className="col-xs-3 text-center">adams.z.d@gmail.com</div>

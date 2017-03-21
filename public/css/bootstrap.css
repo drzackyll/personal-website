@@ -1082,7 +1082,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Dosis", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
@@ -6759,4 +6759,9 @@ button.close {
 /*Custom*/
 .resume-grey {
   background-color: rgb(211, 211, 211);
+}
+
+.projects-img {
+  height: 40%;
+  width: 40%;
 }
