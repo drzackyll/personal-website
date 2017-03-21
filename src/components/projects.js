@@ -6,7 +6,7 @@ const Projects = () => {
       <div className="row">
         <div className="col-xs-4 col-xs-offset-1">
           <a href="https://crisis-visualizer.herokuapp.com/" target="_blank">
-            <img className="img-thumbnail" src="../../images/crisis-screen-shot.png" alt="Crisis Project Screen Shot" />
+            <img className="img-thumbnail" src="../../images/crisis-screen-shot.jpg" alt="Crisis Project Screen Shot" />
           </a>
         </div>
         <div className="col-xs-6">
@@ -20,7 +20,7 @@ const Projects = () => {
       <div className="row">
         <div className="col-xs-4 col-xs-offset-1">
           <a href="https://giphtionary.herokuapp.com/" target="_blank">
-            <img className="img-thumbnail" src="../../images/giphtionary-screen-shot.png" alt="Giphtionary Project Screen Shot" />
+            <img className="img-thumbnail" src="../../images/giphtionary-screen-shot.jpg" alt="Giphtionary Project Screen Shot" />
           </a>
         </div>
         <div className="col-xs-6">
@@ -34,7 +34,7 @@ const Projects = () => {
       <div className="row">
         <div className="col-xs-4 col-xs-offset-1">
           <a href="https://pears-beans-peas.herokuapp.com/" target="_blank">
-            <img className="img-thumbnail" src="../../images/pbp-screen-shot.png" alt="PBP Project Screen Shot" />
+            <img className="img-thumbnail" src="../../images/pbp-screen-shot.jpg" alt="PBP Project Screen Shot" />
           </a>
         </div>
         <div className="col-xs-6">
@@ -48,7 +48,7 @@ const Projects = () => {
       <div className="row">
         <div className="col-xs-4 col-xs-offset-1">
           <a href="https://z-tag.herokuapp.com/" target="_blank">
-            <img className="img-thumbnail" src="../../images/ztag-screen-shot.png" alt="Z-Tag Project Screen Shot" />
+            <img className="img-thumbnail" src="../../images/ztag-screen-shot.jpg" alt="Z-Tag Project Screen Shot" />
           </a>
         </div>
         <div className="col-xs-6">
