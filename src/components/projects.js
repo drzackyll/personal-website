@@ -10,7 +10,7 @@ const Projects = () => {
           </a>
         </div>
         <div className="col-xs-6">
-          <h4>crisis visualizer</h4>
+          <a href="https://crisis-visualizer.herokuapp.com/" target="_blank"><h4>crisis visualizer</h4></a>
           see how the size of the population where you live compares to the scale of crises around the world. we need a strong international development budget now more than ever. please make your voice heard.<br /><br />
           <b>built with:</b> javascript, reactjs, jquery
         </div>
@@ -24,7 +24,7 @@ const Projects = () => {
           </a>
         </div>
         <div className="col-xs-6">
-          <h4>giphtionary</h4>
+          <a href="https://giphtionary.herokuapp.com/" target="_blank"><h4>giphtionary</h4></a>
           enter a search term or phrase and see an Urban Dictionary definition matched with a gif.<br /><br />
           <b>built with:</b> javascript, jquery
         </div>
@@ -38,7 +38,7 @@ const Projects = () => {
           </a>
         </div>
         <div className="col-xs-6">
-          <h4>pears, beans, & peas</h4>
+          <a href="https://pears-beans-peas.herokuapp.com/" target="_blank"><h4>pears, beans, & peas</h4></a>
           organize a potluck with strangers or attend someone else’s.<br /><br />
           <b>built with:</b> ruby on rails, postgresql
         </div>
@@ -52,7 +52,7 @@ const Projects = () => {
           </a>
         </div>
         <div className="col-xs-6">
-          <h4>z-tag</h4>
+          <a href="https://z-tag.herokuapp.com/" target="_blank"><h4>z-tag</h4></a>
           geolocation-based augmented reality game.<br /><br />
           <b>built with:</b> javascript, reactjs, jquery, ruby on rails, postgresql
         </div>

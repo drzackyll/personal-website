@@ -12,6 +12,13 @@ const Resume = () => {
       </div>
       <div className="resume-grey"><h4>TECHNICAL EXPERIENCE</h4></div>
       <div>
+        <a href="http://crisis-visualizer.herokuapp.com">Crisis Visualizer</a> - see how the scale of world crises compare to the size of your town<br />
+        + ReactJS project utilizing US Census and ProPublica Congress APIs.<br />
+        + Renders visual representation of comparative population sizes.<br />
+        + Offers opportunity to contact user’s Congressional Representatives about the issue.<br />
+      </div>
+      <br />
+      <div>
         <a href="http://z-tag.herokuapp.com">Z-Tag</a> - geolocation-based augmented reality game<br />
         + JavaScript and Ruby-on-Rails project utilizing Google Maps Geolocation API<br />
         + Implemented React.js front end makes API calls to Rails server, which handles SQL calls and game logic<br />

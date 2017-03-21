@@ -6765,3 +6765,8 @@ button.close {
   height: 40%;
   width: 40%;
 }
+
+footer {
+  width: 100%;
+  height: 100%;
+}
