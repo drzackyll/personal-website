@@ -4,6 +4,7 @@ import React from 'react'
 const Resume = () => {
   return (
     <div className="container-fluid">
+      <br />
       <div className="row">
         <div className="col-sm-3 text-center">651.206.2992</div>
         <div className="col-sm-3 text-center">adams.z.d@gmail.com</div>

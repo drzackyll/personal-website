@@ -3,6 +3,7 @@ import React from 'react'
 const Projects = () => {
   return (
     <div className="container-fluid">
+      <br />
       <div className="row">
         <div className="col-sm-4 col-sm-offset-2">
           <a href="https://crisis-visualizer.herokuapp.com/" target="_blank">
