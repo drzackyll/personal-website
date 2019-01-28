@@ -5,9 +5,7 @@ function App(props) {
   return (
     <div className="App">
       <NavBar />
-      <div className="container">
-        {props.children}
-      </div>
+      {props.routes}
     </div>
   );
 }
