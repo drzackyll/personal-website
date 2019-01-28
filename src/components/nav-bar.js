@@ -16,7 +16,7 @@ const NavBar = () => {
         <div className="collapse navbar-collapse" id="myNavbar">
           <div style={{textAlign: "center"}} className="nav navbar-nav navbar-right">
             <Link to="/"><button className="navbar-btn btn btn-default btn-md" type="button" >Home</button></Link>
-            <Link to="/projects"><button className="navbar-btn btn btn-default btn-md" type="button" >Projects</button></Link>
+            <Link to="/work"><button className="navbar-btn btn btn-default btn-md" type="button" >Work</button></Link>
             <Link to="/resume"><button className="navbar-btn btn btn-default btn-md" type="button" >Resume</button></Link>
             <Link to="/blog"><button className="navbar-btn btn btn-default btn-md" type="button" >Blog</button></Link>
             <Link to="/contact"><button className="navbar-btn btn btn-default btn-md" type="button" >Contact</button></Link>

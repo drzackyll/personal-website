@@ -64,13 +64,14 @@ class Blog extends Component {
   render() {
     return (
       <div style={{textAlign: "center"}}>
-        {this.state.posts}
+        {/* {this.state.posts} */}
+        Soon!
       </div>
     )
   }
 
   componentWillMount() {
-    this.getBlogPosts()
+    // this.getBlogPosts()
   }
 
   // componentDidMount() {
