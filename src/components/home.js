@@ -8,7 +8,7 @@ const Home = () => {
           <div className="text-center">
             <br />
             <img src="../../images/zack.jpg" alt="" style={{width: "100%"}} /><br />
-            I'm Zack. I'm a web developer.
+            I'm a front end engineer focusing on data analysis in internaional development.
           </div>
         </div>
       </div>
