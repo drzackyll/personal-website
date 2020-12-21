@@ -4,7 +4,7 @@ const Resume = () => {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-xs-2 col-xs-offset-5" style={{fontSize: '42px', textAlign: 'center'}}>Zack Adams</div>
+        <div className="col-md-2 col-md-offset-5" style={{fontSize: '42px', textAlign: 'center'}}>Zack Adams</div>
       </div>
       <br />
       <div className="row">
@@ -21,7 +21,7 @@ const Resume = () => {
           <br />
           <div>
             <div className="resume-grey"><h4>SKILLS AND LANGUAGES</h4></div>
-            + JavaScript, Polymer, ReactJS, Redux, TypeScript, Microsoft Power BI, Apache Superset, Python, Ruby on Rails, SQL, HTML/CSS, jQuery, Bootstrap<br />
+            + JavaScript, Polymer, ReactJS, Redux, TypeScript, Microsoft Power BI, Apache Superset, SQL, HTML/CSS, Bootstrap<br />
             </div>
           <br />
           <div>
@@ -36,7 +36,7 @@ const Resume = () => {
             + Rolling project out to 190+ RapidPro workspaces<br />
             <br />
             Software Engineer, <a href="https://etools.unicef.org/" target="_blank">eTools</a>, August 2017 - December 2019<br />
-            + Upgraded multiple software modules to Polymer 2/3<br />
+            + Upgraded multiple software modules to Polymer 3<br />
             + Managed project to create a Security Incident Reporting system for UNICEF EMOPS.<br />
             + Executed complete rebuilds of several primary dashboard pages<br />
             + Created a reusable custom Polymer component that tracks analytics using Piwik/Matomo<br />
